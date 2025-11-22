@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">File No. 113</dc:title>
 		<meta property="file-as" refines="#title">File No. 113</meta>
-		<meta property="dcterms:alternate" refines="#title">File Number One Hundred and Thirteen</meta>
+		<meta property="dcterms:alternative" refines="#title">File Number One Hundred and Thirteen</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<dc:subject id="subject-2">Bank robberies -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Family secrets -- Fiction</dc:subject>
