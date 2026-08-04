@@ -62,7 +62,7 @@
 		<meta property="group-position" refines="#collection-1">3</meta>
 		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:abstract>A bank is robbed and only two men appear to have the means to have done it; Monsieur Lecoq must discern if it was one of them or an “impossible” third party.</dc:abstract>
+		<meta property="schema:abstract">A bank is robbed and only two men appear to have the means to have done it; Monsieur Lecoq must discern if it was one of them or an “impossible” third party.</meta>
 		<dc:description>
 			&lt;p&gt;A bank safe is robbed. Only two men have both the key and the combination to the safe. The police naturally look to the employee rather than the owner of the bank. But &lt;a href="https://standardebooks.org/collections/monsieur-lecoq"&gt;Monsieur Lecoq&lt;/a&gt;, as always, sees what everyone else misses. Was it one of the two? Or was it a seemingly impossible third party? Only Lecoq will be able to determine it. But why doesn’t he want his involvement in the case known?&lt;/p&gt;
 			&lt;p&gt;Like &lt;a href="https://standardebooks.org/ebooks/emile-gaboriau"&gt;Gaboriau’s&lt;/a&gt; two novels before it, &lt;i&gt;File &lt;abbr&gt;No.&lt;/abbr&gt; 113&lt;/i&gt; is a mystery with a Dickensian tragedy behind it. Men and women of good character, of bad character, and good character who make bad choices abound, and remind us that the best mysteries have great personalities inhabiting them.&lt;/p&gt;
