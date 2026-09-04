@@ -32,13 +32,13 @@
 		<meta property="file-as" refines="#title">File No. 113</meta>
 		<meta property="dcterms:alternative" refines="#title">File Number One Hundred and Thirteen</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
-		<dc:subject id="subject-2">Bank robberies -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Family secrets -- Fiction</dc:subject>
-		<dc:subject id="subject-4">France -- Fiction</dc:subject>
-		<dc:subject id="subject-5">Deception -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Bank robberies--Fiction</dc:subject>
+		<dc:subject id="subject-3">Family secrets--Fiction</dc:subject>
+		<dc:subject id="subject-4">France--Fiction</dc:subject>
+		<dc:subject id="subject-5">Deception--Fiction</dc:subject>
 		<dc:subject id="subject-6">Mystery fiction</dc:subject>
-		<dc:subject id="subject-7">Bankers -- Fiction</dc:subject>
-		<dc:subject id="subject-8">Detectives -- Fiction</dc:subject>
+		<dc:subject id="subject-7">Bankers--Fiction</dc:subject>
+		<dc:subject id="subject-8">Detectives--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037260</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
